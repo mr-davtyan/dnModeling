@@ -22,7 +22,7 @@ l_ap = 0.400
 z0 = length * 1000000
 arrayZSize = z0 / dZ
 blueFirst: bool = True
-resolution = 0.10400
+resolution = 0.00400
 
 
 def get_apodization_and_nz_array():
