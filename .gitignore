@@ -1,0 +1,7 @@
+/.idea/
+/venv/
+/temp/
+/tests/.pytest_cache/
+/app.spec
+/build/
+/CI/build/
